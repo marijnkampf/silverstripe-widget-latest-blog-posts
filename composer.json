@@ -1,0 +1,17 @@
+{
+	"name": "exadium/latestblogs",
+	"description": "Simple Silverstripe widget to show the 10 (default) latest blog posts on for example your homepage. After installing simply drop the widget onto a page, set the title and number of blog posts to display and you are up and running.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "widget", "blog", "latest", "sitebar"],
+	"authors": [
+	{
+		"name": "Marijn Kampf",
+		"email": "info@exadium.com"
+	}
+	],
+
+	"require":
+	{
+    "silverstripe/cms": "2.3.*",
+	}
+}
